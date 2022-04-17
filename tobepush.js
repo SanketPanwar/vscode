@@ -1,2 +1,2 @@
-console.log('Github');
-console.log('second time');
+console.log('i dont love Github');
+
